@@ -2,7 +2,7 @@
 ***Individual Assignment***
 
 ## Steps
-1. Review each of the four articles on systems theory in the [readings](../readings)
+1. Review each of the four articles on systems theory in the [readings]((https://github.com/MUSoftwareEngineering/Student-Materials/tree/main/01-systems-thinking-and-ethics/readings))
 2. ~~Review the lecture and slides on Systems Theory~~ 
 3. Consider one of these public cases where ethical boundaries were crossed (to varying degrees, depending on your perspective). 
  - A retailer selling your personal information to others for profit
